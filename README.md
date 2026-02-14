@@ -12,7 +12,7 @@ To improve **signer-independence**, we encourage embeddings of the **same sign c
 - class logits for recognition (CE loss)
 - a projection head output for contrastive training (SupCon)
 
-  <img width="924" height="545" alt="contrastive_learning_img" src="https://github.com/user-attachments/assets/85819f90-27da-4022-98a1-5a12825cad04" />
+  <img width="700" height="400" alt="contrastive_learning_img" src="https://github.com/user-attachments/assets/85819f90-27da-4022-98a1-5a12825cad04" />
 
 
 The figure shows contrastive sampling for signer-independent SLR.
